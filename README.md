@@ -4,6 +4,9 @@ Quickly generate purchase request strings for building orders
 By default, it is divided into two types of quality, with 2% as the distinction between high and low quality
 You can modify the variables on the third line'HighQ_or_LowQ', Used to set the quality distinction percentage you need
 
+!!Replace the building cookie and order cookie in the first two lines before using
+!!使用前替换前两行的大楼cookie和订单cookie
+
 ## run with nodejs
 Please download 'sync-request' before use
 ```npm i sync-request```
